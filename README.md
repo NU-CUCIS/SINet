@@ -24,10 +24,8 @@ A. Paul, D. Jha, W. Liao, A. Choudhary and A. Agrawal. Transfer Learning Using E
 
 ## Questions/Comments:
 
-email: apaul@u.northwestern.edu
-
-Copyright (C) 2019, Northwestern University.
-
+email: apaul@u.northwestern.edu<br/>
+Copyright (C) 2019, Northwestern University.<br/>
 See COPYRIGHT notice in top-level directory.
 
 ## Funding Support

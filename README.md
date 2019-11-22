@@ -16,6 +16,13 @@ SINet is an acronym for SMILES-InChI Neural Network. We present a multi-input si
 
 The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department at Northwestern University. 
 
+1. Arindam Paul (arindam.paul@eecs.northwestern.edu)
+2. Dipendra Jha (dipendra@u.northwestern.edu)
+3. Reda Al-Bahrani (reda@u.northwestern.edu)
+4. Ankit Agrawal (ankitag@eecs.northwestern.edu)
+5. Wei-keng Liao (wkliao@eecs.northwestern.edu)
+6. Alok Choudhary (choudhar@eecs.northwestern.edu)
+
 
 ## Citation
 If you use this code or data, please cite:
